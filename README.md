@@ -267,7 +267,6 @@ Below are the key screenshots generated during the analysis:
 ![Seasoned Unique Users](seasoned_unique_users.png)
 
 **Retention & Modeling**
-![Retention Model](retention_model.png)
 ![Elbow Method](elbow_method.png)
 
 ---
