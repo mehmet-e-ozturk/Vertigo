@@ -43,7 +43,7 @@ These formulas created the retention rates as follows.
 
 ## Key Results
 
-![Curves](images/retention_model.png)
+![Curves](retention_model.png)
 
 Then i have created imaginary cohorts for both curves to predict their DAUs.
 
@@ -127,10 +127,11 @@ Still Variant B is more likely to be better option.
 Even though 10 day sale is more feasible I would prefer permanent user channel as it will surpass the sale scenario in the long term.  
 On the other hand even with a new scenario some sale actions must be done to keep the player base alive.
 
-![Comparison1](images/sc2_v_sc3_total.png)  
-![Comparison2](images/sc2_v_sc3_daily.png)
+![Comparison1](sc2_v_sc3_total.png)  
+![Comparison2](sc2_v_sc3_daily.png)
 
 ---
+
 ## Question 2
 
 In this task I've made several analyses, with a strong focus on segmentation and churn understanding.  
@@ -253,27 +254,25 @@ This allows quick identification of high-value and high-volume regions and suppo
 Below are the key screenshots generated during the analysis:
 
 **Daily Metrics**
-![Average Session Duration](images/avg_session_duration.png)
-![Daily Unique Players](images/daily_unique_players.png)
-![Install Counts](images/install_counts.png)
-![Total Session Count](images/total_session_count.png)
-![Total Session Duration](images/total_session_duration.png)
+![Average Session Duration](avg_session_duration.png)
+![Daily Unique Players](daily_unique_players.png)
+![Install Counts](install_counts.png)
+![Total Session Count](total_session_count.png)
+![Total Session Duration](total_session_duration.png)
 
 **Seasoned Player Analysis**
-![Seasoned Avg Session Duration](images/seasoned_avg_session_duration.png)
-![Seasoned Total Session Count](images/seasoned_total_session_count.png)
-![Seasoned Total Session Duration](images/seasoned_total_session_duration.png)
-![Seasoned Unique Users](images/seasoned_unique_users.png)
+![Seasoned Avg Session Duration](seasoned_avg_session_duration.png)
+![Seasoned Total Session Count](seasoned_total_session_count.png)
+![Seasoned Total Session Duration](seasoned_total_session_duration.png)
+![Seasoned Unique Users](seasoned_unique_users.png)
 
 **Retention & Modeling**
-![Retention Model](images/retention_model.png)
-![Survival of Newcomers](images/survival_of_newcomers.png)
-![Elbow Method](images/elbow_method.png)
+![Retention Model](retention_model.png)
+![Elbow Method](elbow_method.png)
 
 ---
 
 By combining descriptive analytics, segmentation, and predictive modeling, this task provides both **explainability** and **actionability** for user growth, monetization, and retention strategies.
-
 
 ---
 
@@ -290,4 +289,3 @@ To move beyond descriptive analysis, I developed churn prediction models using e
 Finally, I supported the analysis with seasonality and geographic insights to highlight temporal usage patterns and regional value differences.
 
 Overall, the work combines **explainable analytics**, **robust segmentation**, and **predictive modeling** to support data-driven decisions across acquisition, retention, and monetization.
-
